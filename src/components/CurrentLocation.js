@@ -107,6 +107,7 @@ const CurrentLocation = () => {
                             </p>
                         </div>
                     </div>
+
                 </div>
                 <Forecast icon={state.icon} weather={state.main} />
             </>
