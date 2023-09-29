@@ -663,7 +663,7 @@ div#txt {
   }
 }
 
-@media screen and (max-width: 375px) {
+/* @media screen and (max-width: 375px) {
   h1 {
     font-size: 26px;
     line-height: 1.5em;
@@ -685,7 +685,7 @@ div#txt {
   .temperature p {
     padding-bottom: 15px;
   }
-}
+} */
 
 /*-- //Responsive Code --*/
 .cityHead {
@@ -700,7 +700,7 @@ div#txt {
   justify-content: center;
   margin-bottom: 15px;
   position: relative;
-  z-index: 2;
+  z-index:2;
 }
 
 .search-box .img-box {
