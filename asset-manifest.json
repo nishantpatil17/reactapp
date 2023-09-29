@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/reactapp/static/css/main.40193198.css",
+    "main.css": "/reactapp/static/css/main.9906d342.css",
     "main.js": "/reactapp/static/js/main.c531a74b.js",
     "static/js/787.c4c0c16c.chunk.js": "/reactapp/static/js/787.c4c0c16c.chunk.js",
     "static/media/citybackground.jpg": "/reactapp/static/media/citybackground.5ccab32774f21a9b19fb.jpg",
     "static/media/cityBg.jpg": "/reactapp/static/media/cityBg.e9530e1d764f53cc5236.jpg",
     "static/media/WeatherIcons.gif": "/reactapp/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
     "index.html": "/reactapp/index.html",
-    "main.40193198.css.map": "/reactapp/static/css/main.40193198.css.map",
+    "main.9906d342.css.map": "/reactapp/static/css/main.9906d342.css.map",
     "main.c531a74b.js.map": "/reactapp/static/js/main.c531a74b.js.map",
     "787.c4c0c16c.chunk.js.map": "/reactapp/static/js/787.c4c0c16c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40193198.css",
+    "static/css/main.9906d342.css",
     "static/js/main.c531a74b.js"
   ]
 }
